@@ -4,7 +4,7 @@
 
 ## Brandon Iticka
 
-## (Placeholder)
+## https://itbrandon.github.io/hero-section-cpnt260-a3/
 
 ### Attributions:
 
